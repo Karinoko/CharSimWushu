@@ -1,0 +1,71 @@
+[Main]
+100 = Internal
+101 = Meridiany
+102 = Ekwipunek
+103 = Artefakty
+104 = Treasure
+105 = Special
+106 = Ustawienia
+107 = Info
+
+[Table]
+100 = Parametr:
+101 = Baza
+102 = Inner
+103 = Merka
+104 = Artefakt
+105 = EQ
+106 = Treasure
+107 = Spec
+108 = Suma
+109 = Ukryj
+
+[Inner]
+101 = Internal (Inner):
+102 = Informacje:
+103 = lvl
+104 = Sekta:
+105 = Atrybut:
+106	= Dodaj nowy poziom obecnego innera:
+1071 = Uwaga! Brak oficjalnego wsparcia, edytuj jeœli wiesz co robisz.
+1072 = U¿yj innera Example do testowania.
+108 = Zapisz
+109 = Poziom:
+201 = Dostêpne poziomy:
+
+[Merka]
+101 = Meridiany (Merka):
+102 = lvl
+
+[Eq]
+101 = Ekwipunek (EQ): (ju¿ wkrótce)
+102 = Lewa strona
+103 = Prawa strona
+104 = Suma
+105 = Limit innera
+106 = Bilans
+
+[Art]
+101 = Artifacts: (not avariable now)
+102 = Attribute:
+103 = Current
+104 = Max
+
+[Treasure]
+101 = Treasure: (coming soon)
+
+[Spec]
+101 = Speciales: (coming soon)
+102 = Xiake Token
+103 = Medicine
+104 = Food
+
+[Set]
+101 = Jêzyk:
+102 = Pe³na symulacja
+103 = Edytowalna baza:
+104 = Zapisz
+
+[Mess]
+100 = Pomyœlnie dodano poziom
+101 = Taki poziom juz istnieje - odmowa

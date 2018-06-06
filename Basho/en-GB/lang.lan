@@ -1,0 +1,71 @@
+[Main]
+100 = Internal
+101 = Meridians
+102 = Equipment
+103 = Artifacts
+104 = Treasure
+105 = Special
+106 = Settings
+107 = About
+
+[Table]
+100 = Attribute:
+101 = Base
+102 = Inner
+103 = Merka
+104 = Artifact
+105 = EQ
+106 = Treasure
+107 = Spec
+108 = Total
+109 = Hidden
+
+[Inner]
+101 = Internal skill (Inner)
+102 = Information:
+103 = lvl
+104 = Sect:
+105 = Attribute:
+106	= Add new level of current Internal skill:
+1071 = Attention! There is not supported on official, create only if you know
+1072 = what to do. Use Example inner for tests.
+108 = Save
+109 = Level:
+201 = Possible levels:
+
+[Merka]
+101 = Meridians (Merka)
+102 = lvl
+
+[Eq]
+101 = Equipment (EQ): (coming soon)
+102 = Left side
+103 = Right side
+104 = Sum
+105 = Inner Limit
+106 = Result
+
+[Art]
+101 = Artifacts: (not avariable now)
+102 = Attribute:
+103 = Current
+104 = Max
+
+[Treasure]
+101 = Treasure: (coming soon)
+
+[Spec]
+101 = Speciales: (coming soon)
+102 = Xiake Token
+103 = Medicine
+104 = Food
+
+[Set]
+101 = Language:
+102 = Real simulation
+103 = Editable base param:
+104 = Save
+
+[Mess]
+100 = Successfully added
+101 = Failed - this level already been
